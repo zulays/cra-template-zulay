@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-zulay",
+  "version": "1.0.0",
+  "description": "@zulays's default create-react-app template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zulays/cra-template-zulay.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 12"
+  },
+  "bugs": {
+    "url": "https://github.com/zulays/cra-template-zulay/issues"
+  },
+  "homepage": "https://github.com/zulays/cra-template-zulay#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+
+}
